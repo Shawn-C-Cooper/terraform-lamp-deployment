@@ -51,3 +51,18 @@ cd terraform-lamp-deployment
 terraform init
 terraform plan
 terraform apply
+---
+
+## 📸 Deployment Screenshots
+
+Here's a visual walkthrough of my AWS LAMP stack deployment using Terraform:
+
+| Step | Description                        | Screenshot                         |
+|------|------------------------------------|-------------------------------------|
+| 1️⃣   | Subnet setup overview              | ![Subnet](./screenshot_01.png)      |
+| 2️⃣   | Public subnet details              | ![Public Subnet](./screenshot_02.png) |
+| 3️⃣   | EC2 launch in AWS                  | ![EC2 Launch](./screenshot_03.png)  |
+| 4️⃣   | Apache “It works!” web server      | ![Apache](./screenshot_04.png)      |
+| 5️⃣   | SSH PEM access from terminal       | ![SSH PEM](./screenshot_05.png)     |
+| 6️⃣   | Root access confirmation           | ![Root Access](./screenshot_06.png) |
+| 7️⃣   | VPC + Architecture Recap           | ![Architecture Recap](./screenshot_07.png) |
