@@ -52,7 +52,6 @@ terraform init
 terraform plan
 terraform apply
 ---
-
 ## 📸 Deployment Screenshots
 
 Here's a visual walkthrough of my AWS LAMP stack deployment using Terraform:
@@ -66,3 +65,4 @@ Here's a visual walkthrough of my AWS LAMP stack deployment using Terraform:
 | 5️⃣   | SSH PEM access from terminal       | ![SSH PEM](./screenshot_05.png)     |
 | 6️⃣   | Root access confirmation           | ![Root Access](./screenshot_06.png) |
 | 7️⃣   | VPC + Architecture Recap           | ![Architecture Recap](./screenshot_07.png) |
+
